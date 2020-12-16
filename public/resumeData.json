@@ -16,8 +16,8 @@
       "state":"Ablekuma-Agape",
       "zip": "A7965/31"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://drive.google.com/uc?export=pdf&id=1JZ_9_koC-W0jVg39lGh8Jd0hwJzv8kqn",
+    "website": "http://estherankomah.herokuapp.com/",
+    "resumedownload":"https://drive.google.com/file/d/19fr903DJMjzg9bqn8C1mYcDnD8UxZmSp/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -74,7 +74,7 @@
       {
         "name":"Python",
         "description":"Python was the first programming language I was introduced to in 2015 at a bootcamp. I like Python because of it's simple syntax and it is not statically typed so you don't have to worry about declaring variables.",
-        "image":"java.jpg"
+        "image":"python.png"
       },
       {
         "name":"React Js",
@@ -84,13 +84,13 @@
       {
         "name":"Tailwind CSS",
         "description":"I started using Tailwind CSS just recently but I absolutely love it because unlike other css frameworks, you can customize the utilities to suit your preferences and build size is tiny! Isn't that incredible? I have found myself leaning more to Tailwind.",
-        "image":"meteor.jpg"
+        "image":"tailwind-css-logo.svg"
       },
 
       {
         "name":"GraphQL",
         "description":"GraphQL is pretty cool query language for APIs. I used it once for integrating frontend with backend. I hope to dive more into it in the near future.",
-        "image":"node.jpg"
+        "image":"graphql.png"
       },
       {
         "name":"Bootstrap 4",
@@ -121,21 +121,21 @@
         "title":"UBisX",
         "category":"An ecomerce project I built",
         "image":"original-thai-food.jpg",
-        "url":"http://ubisx.herokuapp.com"
+        "url":"https://ubisx.herokuapp.com"
       },
       {
         "title":"Fix It",
         "category":"A site for people to contact artisans",
         "image":"original-thai-food.jpg",
-        "url":"http://fixit-web.web.app"
+        "url":"https://fixit-web.web.app"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"I have had the opportunity to work with Tim on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Tim excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
-        "user":"Alastair Beaumont - Web Developer at AppColony"
+        "text":"I have had the opportunity to work with Esther which has always been a pleasure. She is driven and motivated with a consistently positive attitude. Esther excels at communicating with others and is always willing to work hard until she solves the problem at hand.",
+        "user":"Zerubbabel Korley - CEO of UBisX"
       }
     ]
   }
