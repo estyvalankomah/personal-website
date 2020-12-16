@@ -114,27 +114,26 @@
       {
         "title":"BackSlash Technologies Website",
         "category":"The official website of BackSlash Technologies",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "image":"photo.jpg",
+        "url":"https://backslashtechnologies.herokuapp.com"
       },
       {
         "title":"UBisX",
         "category":"An ecomerce project I built",
-        "image":"original-thai-food.jpg",
+        "image":"logoSmall.png",
         "url":"https://ubisx.herokuapp.com"
       },
       {
         "title":"Fix It",
         "category":"A site for people to contact artisans",
-        "image":"original-thai-food.jpg",
-        "url":"https://fixit-web.web.app"
+        "image":"fixit.jpg"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"I have had the opportunity to work with Esther which has always been a pleasure. She is driven and motivated with a consistently positive attitude. Esther excels at communicating with others and is always willing to work hard until she solves the problem at hand.",
+        "text":"I have had the opportunity to work with Esther which has always been a pleasure. Her professionalism and expertize in frontend development is inherently recommendable. She satisfactorily gives the expected solution!",
         "user":"Zerubbabel Korley - CEO of UBisX"
       }
     ]
