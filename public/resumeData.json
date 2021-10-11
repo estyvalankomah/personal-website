@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name":"Esther Ankomah",
+    "occupation":"Frontend Developer",
+    "description":" currently volunteering at ",
+    "employer":"BackSlash Technologies",
+    "jobDescription":"frontend developer across the range of our products, as well as serving in the capacity of General Secretary",
+    "image":"profilepic.jpg",
+    "bio":"I am a singer at heart, with an entrepreneurial spirit, and a passion for coding. I was introduced to programming and engineering through a bootcamp for young female high school students at the end of my first year in high school. I was volunteered as a frontend developer at BackSlash Technologies, where I still work today. Since beginning my career there, I have been given the opportunity to sharpen my skills and learn from the very best. I am currently working on acquiring the necessary skills and learning the necessary technologies to become a full stack developer. I love to watch movies, read and listen to music when I'm not coding.",
+    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "abenammra2002@gmail.com",
+    "phone": "(233) 26 272 0206",
+    "address":{
+      "street":"Honey Road",
+      "city":"Accra",
+      "state":"Ablekuma-Agape",
+      "zip": "A7965/31"
+    },
+    "website": "http://estherankomah.herokuapp.com/",
+    "resumedownload":"https://drive.google.com/file/d/19fr903DJMjzg9bqn8C1mYcDnD8UxZmSp/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/abena.mmra",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/estherankomah/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/abena_mmra",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/estyvalankomah",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"These are the technologies I am familiar with.",
+    "education":[
+      {
+        "school":"Accra High School",
+        "degree":"General Science",
+        "graduated":"April 2017",
+        "description":"I read General Science in Accra High School. At the end of my first year, I was one of the two female students who were selected to represent my school at a summer bootcamp hosted by Emerging Leaders in Technology and Engineering (ELITE) in collaboration with National Society of Black Engineers (NSBE). This is where I discovered my passion for programming."
+      },
+      {
+        "school":"University of Ghana",
+        "degree":"Bachelor of Science in Computer Science",
+        "graduated":"Expected April 2021",
+        "description":"I am currently pursuing my Bachelor's degree in Computer Science at University of Ghana. We are being equipped with the means and methods used to produce both applications and systems that behave reliably, correctly and ethically. We also study the fundamentals of computer programming and sound engineering principles to development and maintenance of computer programs since the skill of programming lies at the heart of Computer Science. Knowledge is imparted not just by theory but we are assigned project works which we work on in teams."
+      }
+    ],
+    "work":[
+      {
+        "company":"BackSlash Technologies",
+        "title": "Frontend Developer",
+        "years": "August 2018 - Present",
+        "description": "I volunteered at BackSlash Technologies in my second year at the university to sharpen my programming skills. I have worked as a Frontend Developer throughout my stay at BackSlash. I also served in the capacity of the Treasurer for about a year but now I hold the office the General Secretary. Here I have had the chance to dig in and get my hands dirty with the frontend of most of our products. As well, I developed our website written in React. I have worked extensively with React as well as with react hooks."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "description":"I have used Git for all my projects so far. I basically use Git for version control in project work teams and for my personal projects.",
+        "image":"git.jpg"
+      },
+      {
+        "name":"Python",
+        "description":"Python was the first programming language I was introduced to in 2015 at a bootcamp. I like Python because of it's simple syntax and it is not statically typed so you don't have to worry about declaring variables.",
+        "image":"python.png"
+      },
+      {
+        "name":"React Js",
+        "description":"I love Javascript and I am more in love with the React library. I learnt React as part of a course I was taking in the first semester of my third year at the university and have since then used it for all my personal and side frontend projects.",
+        "image":"react.jpg"
+      },
+      {
+        "name":"Tailwind CSS",
+        "description":"I started using Tailwind CSS just recently but I absolutely love it because unlike other css frameworks, you can customize the utilities to suit your preferences and build size is tiny! Isn't that incredible? I have found myself leaning more to Tailwind.",
+        "image":"tailwind-css-logo.svg"
+      },
+
+      {
+        "name":"GraphQL",
+        "description":"GraphQL is pretty cool query language for APIs. I used it once for integrating frontend with backend. I hope to dive more into it in the near future.",
+        "image":"graphql.png"
+      },
+      {
+        "name":"Bootstrap 4",
+        "description":"I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
+        "image":"bootstrap.jpg"
+      },
+      {
+        "name":"MongoDB",
+        "description":"I usually do not work on databases but for the few occasions that I have due to a project work for a course, I had to use MongoDB and I found it much more enjoyable to use than the traditional Relational Databases.",
+        "image":"mongo.jpg"
+      },
+      {
+        "name":"Heroku",
+        "description":"I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "image":"heroku.jpg"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"BackSlash Technologies Website",
+        "category":"The official website of BackSlash Technologies",
+        "image":"photo.jpg",
+        "url":"https://backslashtechnologies.herokuapp.com"
+      },
+      {
+        "title":"UBisX",
+        "category":"An ecomerce project I built",
+        "image":"logoSmall.png",
+        "url":"https://ubisx.herokuapp.com"
+      },
+      {
+        "title":"Fix It",
+        "category":"A site for people to contact artisans",
+        "image":"fixit.jpg"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I have had the opportunity to work with Esther which has always been a pleasure. Her professionalism and expertize in frontend development is inherently recommendable. She satisfactorily gives the expected solution!",
+        "user":"Zerubbabel Korley - CEO of UBisX"
+      }
+    ]
+  }
+}
